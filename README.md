@@ -13,7 +13,7 @@ Html2X 是一个基于 [wkhtmltox](https://github.com/wkhtmltopdf/wkhtmltopdf) �
 2. 将 [wkhtmltox](https://github.com/wkhtmltopdf/wkhtmltopdf) 的安装封装于 Docker 内，可快速更新版本；
 3. 直接拉取镜像即可快速完成部署，真正的开箱即用。
 
-## 如何使用
+## 如何使用?
 
 请先自行安装好 [Docker](https://www.docker.com/)
 
